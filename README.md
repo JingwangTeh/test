@@ -1,8 +1,8 @@
 # test
 ![test image badge](https://img.shields.io/badge/testA-abc-brightgreen.svg)
 
-#images
-![an image](https://raw.githubusercontent.com/JingwangTeh/test/blob/master/image/testa-a-brightgreen.svg)
+# images
+![an image](https://raw.githubusercontent.com/JingwangTeh/test/master/image/testa-a-brightgreen.svg)
 
 Alt-H1
 ======
