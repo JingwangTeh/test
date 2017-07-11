@@ -1,3 +1,7 @@
+# table of contents
+* [chapter 1](#test)
+* [test2](#bulletpoint)
+
 # test
 ![test image badge](https://img.shields.io/badge/testA-abc-brightgreen.svg)
 
@@ -45,3 +49,20 @@ block
 > test
 
 abc<b>b</b>
+
+# bulletpoint
+
+* a
+* b
+* c
++ e
+- f
+
++ a
+  - b
+   - c
+    - d
+
+1. a
+1. b
+1. c
