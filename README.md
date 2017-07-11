@@ -2,7 +2,7 @@
 ![test image badge](https://img.shields.io/badge/testA-abc-brightgreen.svg)
 
 # images
-![an image](https://raw.githubusercontent.com/JingwangTeh/test/master/image/testa-a-brightgreen.svg)
+![](https://user-images.githubusercontent.com/13199292/28075744-bfdc3008-669f-11e7-84b5-a0f3d405fec9.png)
 
 Alt-H1
 ======
