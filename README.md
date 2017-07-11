@@ -1,5 +1,5 @@
 # test
-![test image badge]()
+![test image badge](https://github.com/JingwangTeh/test/blob/master/image/testa-a-brightgreen.svg)
 
 Alt-H1
 ======
