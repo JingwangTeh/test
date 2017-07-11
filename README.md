@@ -7,6 +7,9 @@
 # more images
 ![](https://github.com/JingwangTeh/test/blob/master/image/test1.png)
 
+# svg?
+![](https://github.com/JingwangTeh/test/blob/master/image/testa-a-brightgreen.svg)
+
 Alt-H1
 ======
 
