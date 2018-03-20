@@ -1,3 +1,5 @@
-site-wrapper {
+main {
+  height: 200px;
+  color: red;
   background-color: green;
 }
